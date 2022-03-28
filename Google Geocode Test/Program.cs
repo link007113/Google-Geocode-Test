@@ -1,12 +1,8 @@
 ﻿using System;
 using System.Net.Http;
-using RestSharp;
-using RestSharp.Authenticators;
 using System.Text;
-
 using System.Threading.Tasks;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
 
 namespace Google_Geocode_Test
 {
